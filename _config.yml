@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Hongbin Pei"
-description              : "Hello. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Hello World"
+repository               : "hp17illinois.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,12 +24,12 @@ author:
   name             : "Hongbin Pei"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xi'an Jiaotong University"
-  location         : "Beijing, China"
+  location         : "Xi'an, Shannxi, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "peihongbin@xjtu.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
