@@ -28,6 +28,8 @@ I published several papers at the top international AI conferences and journals 
 
 # 📝 Publications 
 
+**Featured Publications**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2020</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +37,7 @@ I published several papers at the top international AI conferences and journals 
 
 **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR)
 
-We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. We proposed a novel Geom-GCN model to address the problems. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
+**Key contribution:** We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
 </div>
 </div>
 
