@@ -41,7 +41,7 @@ I published several papers at the top international AI conferences and journals 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/tpami1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Active Surveillance via Group Sparse Bayesian Learning](https://ieeexplore.ieee.org/document/9193963)
