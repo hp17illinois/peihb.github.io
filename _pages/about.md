@@ -23,7 +23,7 @@ I published several papers at the top international AI conferences and journals 
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369, ￥300,000.
-- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as an Tenure-Track Assistant Professor. 
+- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
 # 📝 Publications 
@@ -33,13 +33,9 @@ I published several papers at the top international AI conferences and journals 
 
 [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)
 
-**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang
+**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR)
 
-The International Conference on Learning Representations (ICLR)
-
-[**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
-  
-This paper. 
+We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. We proposed a novel Geom-GCN model to address the problems. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
 </div>
 </div>
 
