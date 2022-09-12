@@ -50,7 +50,7 @@ I published several papers at the top international AI conferences and journals 
 
 **Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. 
   We propose and theoretically analyze a novel measure, the $\gamma$ value, that can be used to identify sentinel components by means of discovering a sentinel network with a row sparsity structure. 
-  We apply the proposed method into malaria surveillance in the border of China and Myanmar, and we develop and deploy the surveillance system in Tengchong city, Yunnan, as shown in the left image. 
+  **We apply the proposed method into malaria surveillance in the border of China and Myanmar, and we develop and deploy the surveillance system in Tengchong city, Yunnan, as shown in the left image.**
   [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 </div>
 </div>
