@@ -28,18 +28,30 @@ I published several papers at the top international AI conferences and journals 
 
 # 📝 Publications 
 
-**Featured Publications**
+## Featured Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2020</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)
 
-**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR)
+**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020
 
 **Key contribution:** We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/TPAMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Active Surveillance via Group Sparse Bayesian Learning](https://ieeexplore.ieee.org/document/9193963)
+
+**Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020
+
+**Key contribution:** We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
