@@ -48,7 +48,7 @@ I published several papers at the top international AI conferences and journals 
 
 **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
 
-**Key contribution:** We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
+**Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. We propose and theoretically analyze a novel measure, the $\gamma$ value, that can be used to identify sentinel components by means of discovering a sentinel network with a row sparsity structure.  [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 </div>
 </div>
 
