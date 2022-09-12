@@ -17,18 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, my name is Hongbin Pei, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.S, M.S, and Ph.D. degree from  the department of computer science, Jilin University. My research interest focuses on  Machine Learning and Complex Network.
-
-Semantic explanation, to make human understand why a DNN makes a certain prediction; (2) Mathematical explanation, to investigate and explain the representation capacity of DNN. Our ultimate goal is to bulid an explainable, safe, and controllable AI.
-
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hey, my name is Hongbin Pei, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.S, M.S, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
+I published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as an assistant professor. 
+- *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
 # 📝 Publications 
 
