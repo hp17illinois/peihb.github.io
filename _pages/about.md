@@ -22,6 +22,7 @@ I published several papers at the top international AI conferences and journals 
 
 
 # 🔥 News
+- *2022.08*: &nbsp;🎉🎉 Our project "On the Dimension and Metric of Network Embedding" is awarded NSFC grant 62202369. 
 - *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as an assistant professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
