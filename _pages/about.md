@@ -73,6 +73,9 @@ I published several papers at the top international AI conferences and journals 
 
 # 🚢 Visiting experience 
 
+*2019.01 - 2020.12*, Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)
+
+*2016.03 - 2017.06*, Research Assistant, Hong Kong Baptist Univeristy (HKBU)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
