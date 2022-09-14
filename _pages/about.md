@@ -82,13 +82,16 @@ I published several papers at the top international AI conferences and journals 
 *2016.03 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
 
 # 🎖 Research Projects
+
 - 国家自然科学基金（青年项目），“网络嵌入的维数与度量研究”，62202369，2023-2025
 
 - 博士后创新人才支持计划，“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2015.09 - 2019.06*, PhD in CST, Jilin University.
+- *2015.09 - 2019.06*, MEng in CST, Jilin University.
+- *2015.09 - 2019.06*, BSc in CST, Jilin University.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
