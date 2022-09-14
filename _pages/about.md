@@ -56,7 +56,7 @@ I published several papers at the top international AI conferences and journals 
 
 ## <font color=blue>Slected Publications</font>
 
-**Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**）
+[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**）
 
 **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight**）
 
@@ -71,7 +71,7 @@ Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning M
 Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
 
 
-# <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Visiting experience 
+# :ship: Visiting experience 
 
 
 # 🎖 Honors and Awards
