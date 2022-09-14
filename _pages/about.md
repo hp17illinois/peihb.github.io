@@ -49,13 +49,26 @@ I published several papers at the top international AI conferences and journals 
 **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
 
 **Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. 
-  **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar. To this end, we investigate malaria cases many times in Tengchong city, Yunnan, as shown in the left image.**
+  **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar. To this end, we investigated malaria cases many times in Tengchong city, Yunnan, as shown in the left image.**
   [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 </div>
 </div>
 
+## <font color=blue>Slected Publications</font>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （CCF-A; impact factor 24,31）
+
+**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （CCF-A; Spotlight）
+
+**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （CCF-A; Spotlight）
+
+**Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （CCF-A; Spotlight）
+
+Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （CCF-A; impact factor 24,31）
+
+Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （CCF-A; Spotlight）
+
+Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （CCF-A）
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
