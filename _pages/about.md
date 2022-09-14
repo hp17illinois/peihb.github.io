@@ -70,6 +70,10 @@ Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning M
 
 Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
 
+
+# <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Visiting experience 
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
