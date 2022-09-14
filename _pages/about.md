@@ -70,12 +70,16 @@ I published several papers at the top international AI conferences and journals 
 
 [7] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
 
+## <font color=blue>译著</font>
+
+《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. 2018 （负责第五章和第六章）
+
 
 # 🚢 Visiting experience 
 
-*2019.01 - 2020.12*, Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)
+*2019.01 - 2020.12*, **Visiting Scholar**, University of Illinois at Urbana-Champaign (UIUC)
 
-*2016.03 - 2017.06*, Research Assistant, Hong Kong Baptist Univeristy (HKBU)
+*2016.03 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
