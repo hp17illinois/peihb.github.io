@@ -75,29 +75,37 @@ I published several papers at the top international AI conferences and journals 
 《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. 2018 （负责第五章和第六章）
 
 
-# 🚢 Visiting experience 
-
-*2019.01 - 2020.12*, **Visiting Scholar**, University of Illinois at Urbana-Champaign (UIUC)
-
-*2016.03 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
-
 # 🎖 Research Projects
 
 - 国家自然科学基金（青年项目），“网络嵌入的维数与度量研究”，62202369，2023-2025   (**主持**)
 
-- 博士后创新人才支持计划，“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023  (**主持；全国400人入选，其中计算机学科14人**)
+- 博士后创新人才支持计划（博新计划），“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023  (**主持；全国400人入选，其中计算机学科14人**)
 
-- 北京交通发展研究院，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023  (**主持**)
+- 北京交通发展研究院——横向课题，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023  (**主持**)
  
 # 📖 Educations
 
-- *2015.09 - 2019.06*, PhD in CST, Jilin University.
-- *2015.09 - 2019.06*, MEng in CST, Jilin University.
-- *2015.09 - 2019.06*, BSc in CST, Jilin University.
+- *2015.09 - 2021.06*, Ph.D in Computer Science and Technology, Jilin University
+
+- *2012.09 - 2015.06*, M.Eng in Computer Science and Technology, Jilin University
+
+- *2008.09 - 2012.06*, B.Sc in Computer Science and Technology, Jilin University
+
+# 🚢 Visiting experience 
+
+*2019.01 - 2020.12*, **Visiting Scholar**, University of Illinois at Urbana-Champaign (UIUC)
+
+*2016.06 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- *2022.05*, **网络几何**, 生物神经智能—神经网络与图神经网络研讨会, 中国人工智能学会主办（在线）
+
+- *2018.05*, **接触跟踪：下一代的传染病防控技术**, 西南大学（重庆）
+
+- *2017.08*, **人类接触时空模式的建模与推断**, 博士生论坛, 中国计算机学会主办（昆明）
+
+- *2016.11*, **面向边境疟疾控制的主动监控系统**, 中国疾病预防控制中心寄生虫病预防控制所（上海）
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2015.10 - 2016.05*, Research intern, Big Data Lab, Baidu Research, China
