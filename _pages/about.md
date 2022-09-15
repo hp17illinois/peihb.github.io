@@ -112,7 +112,7 @@ I published several papers at the top international AI conferences and journals 
 
 # The beautiful tree of life on earth
 
-We are merely a leaf of the tree. The ability to Create Knowledge may be the key difference between us and other leaves.
+We are merely a leaf of the tree. The ability of Creating Knowledge may be the key to differentiate us from other leaves.
 
 ![WechatIMG684](https://user-images.githubusercontent.com/46875212/190320246-a7d711d2-5443-42a1-b3b4-fcc20e71dc2f.jpeg)
 
