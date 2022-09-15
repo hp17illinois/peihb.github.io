@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Visiting experience"
-    url: "/#-visiting-experience"
+  - title: "Research Projects"
+    url: "/#-research-projects"
 
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Visiting Experience"
+    url: "/#-visiting-experience"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
