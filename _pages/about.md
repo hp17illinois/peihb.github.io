@@ -91,7 +91,7 @@ I published several papers at the top international AI conferences and journals 
 
 - *2008.09 - 2012.06*, **B.Sc** in Computer Science and Technology, Jilin University
 
-# 🚢 Visiting experience 
+# 🚢 Visiting Experience 
 
 *2019.01 - 2020.12*, **Visiting Scholar**, University of Illinois at Urbana-Champaign (UIUC)
 
