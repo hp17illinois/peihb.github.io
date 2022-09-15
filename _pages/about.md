@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.S, M.S, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
+Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
 I published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
 
 
@@ -85,11 +85,11 @@ I published several papers at the top international AI conferences and journals 
  
 # 📖 Educations
 
-- *2015.09 - 2021.06*, Ph.D in Computer Science and Technology, Jilin University
+- *2015.09 - 2021.06*, **Ph.D** in Computer Science and Technology, Jilin University
 
-- *2012.09 - 2015.06*, M.Eng in Computer Science and Technology, Jilin University
+- *2012.09 - 2015.06*, **M.Eng** in Computer Science and Technology, Jilin University
 
-- *2008.09 - 2012.06*, B.Sc in Computer Science and Technology, Jilin University
+- *2008.09 - 2012.06*, **B.Sc** in Computer Science and Technology, Jilin University
 
 # 🚢 Visiting experience 
 
@@ -97,7 +97,7 @@ I published several papers at the top international AI conferences and journals 
 
 *2016.06 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
 
-# 💬 Invited Talks
+# 🔉 Invited Talks
 
 - *2022.05*, **网络几何**, 生物神经智能—神经网络与图神经网络研讨会, 中国人工智能学会主办（在线）
 
