@@ -22,7 +22,7 @@ I published several papers at the top international AI conferences and journals 
 
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369, ￥300,000.
+- *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369
 - *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
@@ -83,10 +83,12 @@ I published several papers at the top international AI conferences and journals 
 
 # 🎖 Research Projects
 
-- 国家自然科学基金（青年项目），“网络嵌入的维数与度量研究”，62202369，2023-2025
+- 国家自然科学基金（青年项目），“网络嵌入的维数与度量研究”，62202369，2023-2025   (**主持**)
 
-- 博士后创新人才支持计划，“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023
+- 博士后创新人才支持计划，“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023  (**主持；全国400人入选，其中计算机学科14人**)
 
+- 北京交通发展研究院，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023  (**主持**)
+ 
 # 📖 Educations
 
 - *2015.09 - 2019.06*, PhD in CST, Jilin University.
