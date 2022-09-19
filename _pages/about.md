@@ -58,11 +58,11 @@ I published several papers at the top international AI conferences and journals 
 
 [1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**）
 
-[2] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight**）
+[2] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight Presentation**）
 
-[3] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （**CCF-A**; **Spotlight**）
+[3] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （**CCF-A**; **Spotlight Presentation**）
 
-[4] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （**CCF-A**; **Spotlight**）
+[4] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （**CCF-A**; **Spotlight Presentation**）
 
 [5] Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （**CCF-A**; **impact factor 24.31**）
 
