@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
-I published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
+I published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
+
 
 
 # 🔥 News
