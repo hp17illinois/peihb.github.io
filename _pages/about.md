@@ -77,11 +77,13 @@ I published several papers at the top international AI conferences and journals 
 
 # 🎖 Research Projects
 
-- 国家自然科学基金（青年项目），“网络嵌入的维数与度量研究”，62202369，2023-2025   (**主持**)
+- **国家自然科学基金（青年项目）**，“网络嵌入的维数与度量研究”，62202369，2023-2025 
 
-- 博士后创新人才支持计划（博新计划），“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023  (**主持；全国400人入选，其中计算机学科14人**)
+- **博士后创新人才支持计划（博新计划）**，“大规模动态异质网络表示学习方法与应用”，BX2021240，2021-2023  (全国400人入选，其中计算机学科仅14人)
 
-- 北京交通发展研究院——横向课题，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023  (**主持**)
+- **北京交通发展研究院——横向课题**，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023 
+
+- **智能网络与网络安全教育部重点实验室——青年学术骨干培植项目**，“大规模图解耦表示学习方法及应用”，2022
  
 # 📖 Educations
 
@@ -93,21 +95,22 @@ I published several papers at the top international AI conferences and journals 
 
 # 🚢 Visiting Experience 
 
-*2019.01 - 2020.12*, **Visiting Scholar**, University of Illinois at Urbana-Champaign (UIUC)
+*2019.01 - 2020.12*, **Visiting Scholar**,  Data and Information Systems Laboratory (DAIS), University of Illinois at Urbana-Champaign (UIUC)
 
-*2016.06 - 2017.06*, **Research Assistant**, Hong Kong Baptist Univeristy (HKBU)
+*2016.06 - 2017.06*, **Research Assistant**, Centre for Health Informatics (HIC), Hong Kong Baptist Univeristy (HKBU)
 
 # 🔉 Invited Talks
 
-- *2022.05*, **网络几何**, 生物神经智能—神经网络与图神经网络研讨会, 中国人工智能学会主办（在线）
+- *2022.05*, **网络几何**, 生物神经智能—神经网络与图神经网络研讨会, 中国人工智能学会CAAI（在线）
 
 - *2018.05*, **接触跟踪：下一代的传染病防控技术**, 西南大学（重庆）
 
-- *2017.08*, **人类接触时空模式的建模与推断**, 博士生论坛, 中国计算机学会主办（昆明）
+- *2017.08*, **人类接触时空模式的建模与推断**, 博士生论坛, 中国计算机学会CCF（昆明）
 
 - *2016.11*, **面向边境疟疾控制的主动监控系统**, 中国疾病预防控制中心寄生虫病预防控制所（上海）
 
 # 💻 Internships
+
 - *2015.10 - 2016.05*, Research intern, Big Data Lab, Baidu Research, China
 
 # The beautiful tree of life on earth
