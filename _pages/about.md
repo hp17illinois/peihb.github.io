@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
-I published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
-
+I published several papers at the top international AI conferences and journals, such as IEEE TPAMI, ICLR, NeurIPS.
 
 
 # 🔥 News
@@ -39,6 +38,9 @@ I published several papers at the top international AI conferences and journals 
 **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020
 
 **Key contribution:** We point two fundamental weaknesses of message passing neural network, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
+  
+The paper has more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>330+</span></strong></a>.
+
 </div>
 </div>
 
