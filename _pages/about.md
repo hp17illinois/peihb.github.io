@@ -28,7 +28,7 @@ I published several papers at the top international AI conferences and journals,
 
 # 📝 Publications 
 
-## <font color=blue>Featured Publications</font>
+## <font color=grey>Featured Publications</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2020</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,7 +57,7 @@ The paper has more than <a href='https://scholar.google.com/citations?user=FxVma
 </div>
 </div>
 
-## <font color=blue>Slected Publications</font>
+## <font color=grey>Slected Publications</font>
 
 [1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**）
 
@@ -73,7 +73,7 @@ The paper has more than <a href='https://scholar.google.com/citations?user=FxVma
 
 [7] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
 
-## <font color=blue>译著</font>
+## <font color=grey>译著</font>
 
 《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. 2018 （负责第五章和第六章）
 
