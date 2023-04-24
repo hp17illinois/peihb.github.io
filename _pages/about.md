@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University. I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University. My research interest focuses on Machine Learning and Complex Networks.
+Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University (西安交通大学) . I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University (吉林大学). My research interest focuses on Machine Learning and Complex Networks.
 I published several papers at the top international AI conferences and journals, such as IEEE TPAMI, ICLR, NeurIPS.
 
 
@@ -39,7 +39,7 @@ I published several papers at the top international AI conferences and journals,
 
 **Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
   
-The paper has more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+The paper is the first work raises the problem of graph learning heterophily, and gain more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
 </div>
 </div>
@@ -52,14 +52,16 @@ The paper has more than <a href='https://scholar.google.com/citations?user=FxVma
 **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
 
 **Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. 
-  **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar. To this end, we investigated malaria cases many times in Tengchong city, Yunnan, as shown in the left image.**
+  **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar, which played a crucial role in the elimination of malaria in Yunnan**.
+  
+  We investigated malaria cases many times in border area of China and Myanmar; a snapshot is shown on the left.
   [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 </div>
 </div>
 
 ## <font color=grey>Slected Publications</font>
 
-[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**）
+[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**; **ESI** Highly Cited Paper; **ESI** Hot Paper）
 
 [2] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight Presentation**）
 
