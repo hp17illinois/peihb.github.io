@@ -35,9 +35,9 @@ I published several papers at the top international AI conferences and journals,
 
 [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)
 
-**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020
+**Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020  [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
 
-**Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
+**Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. 
   
 The paper is the first work raises the problem of graph learning heterophily, and gain more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
@@ -49,13 +49,12 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 [Active Surveillance via Group Sparse Bayesian Learning](https://ieeexplore.ieee.org/document/9193963)
 
-**Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
+**Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022    [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 
 **Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. 
   **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar, which played a crucial role in the elimination of malaria in Yunnan**.
   
   We investigated malaria cases many times in border area of China and Myanmar; a snapshot is shown on the left.
-  [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 </div>
 </div>
 
