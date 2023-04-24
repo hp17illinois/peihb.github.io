@@ -39,7 +39,7 @@ I published several papers at the top international AI conferences and journals,
 
 **Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. 
   
-The paper is the first work raises the problem of graph learning heterophily, and gain more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+The paper is the first work raises the problem of graph learning heterophily, and gains more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
 
 </div>
 </div>
