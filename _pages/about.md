@@ -33,7 +33,7 @@ I published several papers at the top international AI conferences and journals,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2020</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS) &emsp  [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
+[Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)   [**Code**](https://github.com/graphdml-uiuc-jlu/geom-gcn) 
 
 **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020 
 
@@ -47,7 +47,7 @@ The paper is the first work raises the problem of graph learning heterophily, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/tpami2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Active Surveillance via Group Sparse Bayesian Learning](https://ieeexplore.ieee.org/document/9193963)  &emsp [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
+[Active Surveillance via Group Sparse Bayesian Learning](https://ieeexplore.ieee.org/document/9193963)  [**Code**](https://github.com/hp17illinois/Active-Surveillance-via-Group-Sparse-Bayesian-Learning) 
 
 **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022  
 
