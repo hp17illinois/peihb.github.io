@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hongbin Pei (裴红斌)"
-description              : "Key Laboratory of intelligent network and network security, Xi'an Jiaotong University"
+title                    : "Hongbin Pei (裴红斌 西安交通大学)"
+description              : "Key Laboratory of intelligent network and network security (智能网络与网络安全教育部重点实验室), Xi'an Jiaotong University (西安交通大学)"
 repository               : "hp17illinois.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Assistant Professor"
   location         : "Xi'an, China"
-  employer         : "西安交通大学"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "peihongbin@xjtu.edu.cn"
