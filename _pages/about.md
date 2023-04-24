@@ -72,7 +72,11 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 [6] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （**CCF-A**）
 
-[7] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu DAI. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
+[7] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu Dai. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
+
+[8] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
+
+
 
 ## <font color=grey>译著</font>
 
