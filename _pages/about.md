@@ -62,19 +62,19 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 [1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**; **ESI** Highly Cited Paper; **ESI** Hot Paper）
 
-[2] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight Presentation**）
+[2] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
 
-[3] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （**CCF-A**; **Spotlight Presentation**）
+[3] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （**CCF-A**）
 
-[4] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （**CCF-A**; **Spotlight Presentation**）
+[4] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （**CCF-A**; **Spotlight Presentation**）
 
-[5] Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （**CCF-A**; **impact factor 24.31**）
+[5] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （**CCF-A**; **Spotlight Presentation**）
 
-[6] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （**CCF-A**）
+[6] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu Dai. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
 
-[7] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu Dai. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019 （**CCF-A**）
+[7] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （**CCF-A**; **Spotlight Presentation**）
 
-[8] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
+[8] Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （**CCF-A**; **impact factor 24.31**）
 
 
 
