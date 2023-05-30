@@ -95,7 +95,7 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 # 🎖 Honors
 
-- **吉林省优秀博士学位论文**，2022 
+- **吉林大学优秀博士学位论文**，2022 
 
 - **吉林省自然科学奖一等奖**，2021
 
