@@ -60,7 +60,7 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 ## <font color=grey>Slected Publications</font>
 
-[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （**CCF-A**; **impact factor 24.31**; **ESI** Highly Cited Paper (top 1%); **ESI** Hot Paper (top 0.1%)）
+[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue">some **CCF-A** text</span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
 [2] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
 
