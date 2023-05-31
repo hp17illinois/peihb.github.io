@@ -39,7 +39,7 @@ I published several papers at the top international AI conferences and journals,
 
 **Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. 
   
-The paper is the first work raises the problem of graph learning heterophily, and gains more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.
+The paper is the first work raises the problem of graph learning heterophily, and gains more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>550+</span></strong></a>.
 
 </div>
 </div>
@@ -88,7 +88,7 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 ## <font color=grey>译著</font>
 
-《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. 2018 （负责第五章和第六章）
+《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. ISBN 9787111611967. 2019 （负责第五章和第六章）
 
 
 # 🚀  Research Projects
@@ -99,9 +99,9 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 - **北京交通发展研究院——揭榜挂帅课题**，“基于街景、遥感图像等多源数据的城市用地规模与功能预测及在交通网络的应用”，2022-2023 
 
-- **智能网络与网络安全教育部重点实验室——青年学术骨干培植项目**，“大规模图解耦表示学习方法及应用”，2022
+- **智能网络与网络安全教育部重点实验室——青年学术骨干培植项目**，“大规模图解耦表示学习方法及应用”，2022-2023
 
-- **符号计算与知识工程教育部重点实验室——开放课题**，“面向3D分子表示学习的层次几何图神经网络”，2022
+- **符号计算与知识工程教育部重点实验室——开放课题**，“面向3D分子表示学习的层次几何图神经网络”，2022-2024
 
 # 🎖 Honors
 
