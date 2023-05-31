@@ -137,8 +137,8 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 # 💻 Services
 
-- *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD
-- *Journal reveiwer*: IEEE TKDE, TNNLS, DKE, Scientific Reports
+- *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD, WWW
+- *Journal reveiwer*: IEEE TKDE, IEEE TNNLS, DKE, Scientific Reports
 
 # The beautiful tree of life on earth
 
