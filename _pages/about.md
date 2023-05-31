@@ -101,6 +101,8 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 - **智能网络与网络安全教育部重点实验室——青年学术骨干培植项目**，“大规模图解耦表示学习方法及应用”，2022
 
+- **符号计算与知识工程教育部重点实验室——开放课题**，“面向3D分子表示学习的层次几何图神经网络”，2022
+
 # 🎖 Honors
 
 - **吉林大学优秀博士学位论文**，2022 
