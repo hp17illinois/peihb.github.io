@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University (西安交通大学) . I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University (吉林大学). My research interest focuses on Machine Learning and Complex Networks.
+Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University (西安交通大学). I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University (吉林大学). My research interest focuses on Machine Learning and Complex Networks.
 I published several papers at the top international AI conferences and journals, such as IEEE TPAMI, ICLR, NeurIPS.
 
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369
-- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong Universiyt as a Tenure-Track Assistant Professor. 
+- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong University as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
 # 📝 Publications 
@@ -37,9 +37,9 @@ I published several papers at the top international AI conferences and journals,
 
 **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. The International Conference on Learning Representations (ICLR), 2020 
 
-**Key contribution:** **We point two fundamental weaknesses of message passing neural network**, *i.e*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. 
+**Key contribution:** **We point out two fundamental weaknesses of message-passing neural network**, *i.e.*., losing the structural information of nodes in neighborhoods and lacking the ability to capture long-range dependencies in disassortative graphs. 
   
-The paper is the first work raises the problem of graph learning heterophily, and gains more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>550+</span></strong></a>.
+The paper is the first work to raise the problem of graph learning heterophily, and gains more than <a href='https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>550+</span></strong></a>.
 
 </div>
 </div>
@@ -52,7 +52,7 @@ The paper is the first work raises the problem of graph learning heterophily, an
 **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022  
 
 **Key contribution:** We formulate the active surveillance task as a row sparse sentinel network mining problem for the first time. 
-  **We apply the proposed active surveillance algorithm into malaria surveillance in border area of China and Myanmar, which played a crucial role in the elimination of malaria in Yunnan**.
+  **We apply the proposed active surveillance algorithm into malaria surveillance in border areas of China and Myanmar, which played a crucial role in the elimination of malaria in Yunnan**.
   
   We investigated malaria cases many times in border areas of China and Myanmar; a snapshot is shown on the left.
 </div>
@@ -137,13 +137,13 @@ The paper is the first work raises the problem of graph learning heterophily, an
 
 # 💻 Services
 
-- *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD, WWW
-- *Journal reveiwer*: IEEE TKDE, IEEE TNNLS, DKE, Scientific Reports
+- *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD, SDM
+- *Journal reveiwer*: IEEE TKDE, IEEE TNNLS, IEEE TPAMI, DKE, Scientific Reports
 
 # The beautiful tree of life on earth
 
-We are merely a leaf of the tree; enjoy life! The ability of Creating Knowledge may be the key to differentiate us from other leaves.
+We are merely a leaf of the tree; enjoy life! The ability to **Create Knowledge** may be the key to differentiating us from other leaves.
 
 ![WechatIMG684](https://user-images.githubusercontent.com/46875212/190320246-a7d711d2-5443-42a1-b3b4-fcc20e71dc2f.jpeg)
 
-The figure is created by Evogeneao.
+The figure was created by Evogeneao.
