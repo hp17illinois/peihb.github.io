@@ -140,11 +140,12 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 - *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD, SDM
 - *Journal reveiwer*: IEEE TKDE, IEEE TNNLS, IEEE TPAMI, DKE, Scientific Reports
 
-# 📙 Books Recommended
+# 📙 Books that inspire me most
 
-- 《超越时空——通过平行宇宙、时间卷曲和第十维度的科学之旅》by 加来道雄
-- 《Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World》 by Leslie Valiant
-- 《背水一战：从纱厂小工到大学校长》 by 孔宪铎
+- **《超越时空——通过平行宇宙、时间卷曲和第十维度的科学之旅》** by 加来道雄
+- **《哲学之树》** by Stephen R. Palmquist
+- **《Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World》** by Leslie Valiant
+- **《背水一战：从纱厂小工到大学校长》** by 孔宪铎
 
 # The beautiful tree of life on earth
 
