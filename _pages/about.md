@@ -111,7 +111,7 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 - **全国博士后创新创业大赛优胜奖**，2021 
  
-# 📖 Educations
+# 🎓 Educations
 
 - *2015.09 - 2021.06*, **Ph.D** in Computer Science and Technology, Jilin University
 
