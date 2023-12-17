@@ -24,7 +24,7 @@ I published several papers at the top international AI conferences and journals,
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24
 - *2023.12*: &nbsp;🎉🎉 I participated in and delivered a talk at the Xiangshan Science Conference (香山科学会议)
-- *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369
+- *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" (网络嵌入的维数与度量研究) project is selected to be awarded by NSFC
 - *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong University as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
@@ -62,17 +62,17 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 ## <font color=grey>Slected Publications</font>
 
-[2023] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue"> **CCF-A** </span>）
+[2023] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue">**CCF-A**</span>）
 
-[2023] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue"> **CCF-A** </span>）
+[2023] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue">**CCF-A**</span>）
 
-[2022] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue"> **CCF-A** </span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
+[2022] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue">**CCF-A**</span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
 [2022] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
 
-[2022] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （<span style="color:blue"> **CCF-A** </span>）
+[2022] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （<span style="color:blue">**CCF-A**</span>）
 
-[2022] Denghao Ma, Yueguo Chen, Changyu Wang, **Hongbin Pei**, Yitao Zhai, Gang Zheng, Qi Chen. Definition-Augmented Jointly Training Framework for Intention Phrase Mining. 27th international Conference on Database Systems for Advanced Applications (**DASFAA**), 2022 （<span style="color:blue"> **CCF-B** </span>）
+[2022] Denghao Ma, Yueguo Chen, Changyu Wang, **Hongbin Pei**, Yitao Zhai, Gang Zheng, Qi Chen. Definition-Augmented Jointly Training Framework for Intention Phrase Mining. 27th international Conference on Database Systems for Advanced Applications (**DASFAA**), 2022 （<span style="color:blue">**CCF-B**</span>）
 
 [2022] Jialun Liu, Yifan Sun, Yijin Xu, **Hongbin Pei**, Wenhui Li. Feature Cloud: Improving Deep Visual Recognition With Probabilistic Feature Augmentation. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022 （<span style="color:blue"> **CCF-B** </span>）
 
