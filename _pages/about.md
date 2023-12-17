@@ -22,6 +22,8 @@ I published several papers at the top international AI conferences and journals,
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24
+- *2023.12*: &nbsp;🎉🎉 I participated in and delivered a talk at the Xiangshan Science Conference (香山科学会议)
 - *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" project is selected to be awarded by NSFC, grant 62202369
 - *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong University as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
@@ -60,31 +62,35 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 ## <font color=grey>Slected Publications</font>
 
-[1] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue"> **CCF-A** </span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
+[2023] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue"> **CCF-A** </span>）
 
-[2] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
+[2023] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue"> **CCF-A** </span>）
 
-[3] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （<span style="color:blue"> **CCF-A** </span>）
+[2022] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue"> **CCF-A** </span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
-[4] Denghao Ma, Yueguo Chen, Changyu Wang, **Hongbin Pei**, Yitao Zhai, Gang Zheng, Qi Chen. Definition-Augmented Jointly Training Framework for Intention Phrase Mining. 27th international Conference on Database Systems for Advanced Applications (**DASFAA**), 2022 （<span style="color:blue"> **CCF-B** </span>）
+[2022] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
 
-[5] Jialun Liu, Yifan Sun, Yijin Xu, **Hongbin Pei**, Wenhui Li. Feature Cloud: Improving Deep Visual Recognition With Probabilistic Feature Augmentation. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022 （<span style="color:blue"> **CCF-B** </span>）
+[2022] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （<span style="color:blue"> **CCF-A** </span>）
 
-[6] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （<span style="color:blue"> **Tsinghua University CS-A** </span>; **Spotlight Presentation**）
+[2022] Denghao Ma, Yueguo Chen, Changyu Wang, **Hongbin Pei**, Yitao Zhai, Gang Zheng, Qi Chen. Definition-Augmented Jointly Training Framework for Intention Phrase Mining. 27th international Conference on Database Systems for Advanced Applications (**DASFAA**), 2022 （<span style="color:blue"> **CCF-B** </span>）
 
-[7] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （<span style="color:blue"> **CCF-A** </span>; **Spotlight Presentation**）
+[2022] Jialun Liu, Yifan Sun, Yijin Xu, **Hongbin Pei**, Wenhui Li. Feature Cloud: Improving Deep Visual Recognition With Probabilistic Feature Augmentation. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022 （<span style="color:blue"> **CCF-B** </span>）
 
-[8] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu Dai. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020 （<span style="color:blue"> **CCF-A** </span>）
+[2020] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang. Geom-GCN: Geometric Graph Convolutional Networks. The eighth International Conference on Learning Representations (**ICLR**), 2020 （<span style="color:blue"> **Tsinghua University CS-A** </span>; **Spotlight Presentation**）
 
-[9] Yu Lei, **Hongbin Pei**, Hanqi Yan, Wenjie Li. Reinforcement learning based recommendation with graph convolutional q-network. 43rd international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2020 （<span style="color:blue"> **CCF-A** </span>）
+[2020] **Hongbin Pei**, Bingzhe Wei, Kevin Chen-Chuan Chang, Chunxu Zhang, Bo Yang. Curvature Regularization to Prevent Distortion in Graph Embedding. Thirty-fourth Conference on Neural Information Processing Systems (**NeurIPS**), 2020 （<span style="color:blue"> **CCF-A** </span>; **Spotlight Presentation**）
 
-[10] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**. Social attentive deep q-network for recommendation. 42nd international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2019 （<span style="color:blue"> **CCF-A** </span>）
+[2020] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**, Quanyu Dai. Social Attentive Deep Q-networks for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020 （<span style="color:blue"> **CCF-A** </span>）
 
-[11] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （<span style="color:blue"> **CCF-A** </span>; **Spotlight Presentation**）
+[2020] Yu Lei, **Hongbin Pei**, Hanqi Yan, Wenjie Li. Reinforcement learning based recommendation with graph convolutional q-network. 43rd international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2020 （<span style="color:blue"> **CCF-A** </span>）
 
-[12] Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （<span style="color:blue"> **CCF-A** </span>; **impact factor 24.31**）
+[2019] Yu Lei, Zhitao Wang, Wenjie Li, **Hongbin Pei**. Social attentive deep q-network for recommendation. 42nd international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2019 （<span style="color:blue"> **CCF-A** </span>）
 
-[13] Jingbo Zhou, **Hongbin Pei**, Haishan Wu. Early Warning of Human Crowds Based on Query Data from Baidu Map: Analysis Based on Shanghai Stampede. 	arXiv:1603.06780, 2017 （This paper attract widespread attention and is reported by many international media, including [MIT Technology Review (麻省理工科技评论)](https://www.technologyreview.com/2016/03/24/246356/baidu-uses-map-searches-to-predict-when-crowds-will-get-out-of-control/), [Wall Street Journal (华尔街日报)](https://www.wsj.com/articles/BL-CJB-28918), [South China Morning Post (南华早报)](https://www.scmp.com/tech/china-tech/article/1930022/chinese-search-engine-giant-baidu-develops-ai-algorithm-predict) ）
+[2018] **Hongbin Pei**, Bo Yang, Jiming Liu, Lei Dong. Group Sparse Bayesian Learning for Actively Surveillance on Epidemic Dynamics. Thirty-second AAAI Conference on Artificial Intelligence (**AAAI**), 2018  （<span style="color:blue"> **CCF-A** </span>; **Spotlight Presentation**）
+
+[2017] Bo Yang, **Hongbin Pei**, Hechang Chen, Jiming Liu, Shang Xia. Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2017 （<span style="color:blue"> **CCF-A** </span>; **impact factor 24.31**）
+
+[2017] Jingbo Zhou, **Hongbin Pei**, Haishan Wu. Early Warning of Human Crowds Based on Query Data from Baidu Map: Analysis Based on Shanghai Stampede. 	arXiv:1603.06780, 2017 （This paper attract widespread attention and is reported by many international media, including [MIT Technology Review (麻省理工科技评论)](https://www.technologyreview.com/2016/03/24/246356/baidu-uses-map-searches-to-predict-when-crowds-will-get-out-of-control/), [Wall Street Journal (华尔街日报)](https://www.wsj.com/articles/BL-CJB-28918), [South China Morning Post (南华早报)](https://www.scmp.com/tech/china-tech/article/1930022/chinese-search-engine-giant-baidu-develops-ai-algorithm-predict) ）
 
 ## <font color=grey>译著</font>
 
