@@ -62,9 +62,9 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 ## <font color=grey>Slected Publications</font>
 
-[*2024*] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue">**CCF-A**</span>）
+[*2024*] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
-[*2024*] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2023  （<span style="color:blue">**CCF-A**</span>）
+[*2024*] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
 [*2022*] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue">**CCF-A**</span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
