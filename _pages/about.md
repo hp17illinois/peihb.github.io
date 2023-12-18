@@ -66,13 +66,13 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 [*2024*] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
+[*2022*] Denghao Ma, **Hongbin Pei**, Peng Bao, Xueqiang Lv, Liang Shen, Genliang Yi, Haoxing Wen. Deep Click Interest Network for Reranking Hotels. Engineering Applications of Artificial Intelligence (**EAAI**), 2023 （<span style="color:blue">**CCF-C**</span>； 应用在美团APP首页酒店检索）
+
 [*2022*] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue">**CCF-A**</span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
 [*2022*] 王平辉, **裴红斌**, 赵俊舟, 秦涛, 沈超, 刘东亮, 管晓宏. 网络社会现代治理的挑战与对策. 中国科学院院刊, 2022 
 
 [*2022*] Jialun Liu, Yifan Sun, Feng Zhu, **Hongbin Pei**, Yi Yang, Wenhui Li. Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 （<span style="color:blue">**CCF-A**</span>）
-
-[*2022*] Denghao Ma, Yueguo Chen, Changyu Wang, **Hongbin Pei**, Yitao Zhai, Gang Zheng, Qi Chen. Definition-Augmented Jointly Training Framework for Intention Phrase Mining. 27th international Conference on Database Systems for Advanced Applications (**DASFAA**), 2022 （<span style="color:blue">**CCF-B**</span>）
 
 [*2022*] Jialun Liu, Yifan Sun, Yijin Xu, **Hongbin Pei**, Wenhui Li. Feature Cloud: Improving Deep Visual Recognition With Probabilistic Feature Augmentation. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022 （<span style="color:blue">**CCF-B**</span>）
 
