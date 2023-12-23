@@ -21,14 +21,15 @@ Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of
 I published several papers at the top international AI conferences and journals, such as IEEE TPAMI, ICLR, NeurIPS.
 
 
-# 🔥 News
+# 🔥 News (新闻)
+- *2023.12*: &nbsp;🎉🎉 I was nominated by the program chair committee of ICML 2024 to serve as Reviewer
 - *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24
 - *2023.12*: &nbsp;🎉🎉 I participated in and delivered a talk at the Xiangshan Science Conference (香山科学会议)
 - *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" (网络嵌入的维数与度量研究) project is selected to be awarded by NSFC
 - *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong University as a Tenure-Track Assistant Professor. 
 - *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University.
 
-# 📝 Publications 
+# 📝 Selected Publications (论文)
 
 ## <font color=grey>Featured Publications</font>
 
@@ -99,7 +100,7 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 《机器学习精讲：基础、算法及应用》杰瑞米·瓦特、雷萨·博哈尼、阿格洛斯·K.卡萨格罗斯. 机械工业出版社. ISBN 9787111611967. 2019 （负责第五章和第六章）
 
 
-# 🚀  Research Projects
+# 🚀  Research Projects (研究项目)
 
 - **国家自然科学基金（青年项目）**，“网络嵌入的维数与度量研究”，62202369，2023-2025 
 
@@ -111,7 +112,7 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 - **符号计算与知识工程教育部重点实验室——开放课题**，“面向3D分子表示学习的层次几何图神经网络”，2022-2024
 
-# 🎖 Honors
+# 🎖 Honors  (获奖)
 
 - **吉林大学优秀博士学位论文**，2022 
 
@@ -119,7 +120,7 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 - **全国博士后创新创业大赛优胜奖**，2021 
  
-# 🎓 Educations
+# 🎓 Educations  (教育)
 
 - *2015.09 - 2021.06*, **Ph.D** in Computer Science and Technology, Jilin University
 
@@ -133,7 +134,7 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 *2016.06 - 2017.06*, **Research Assistant**, Centre for Health Informatics (HIC), Hong Kong Baptist Univeristy (HKBU)
 
-# 🔉 Invited Talks
+# 🔉 Invited Talks (邀请报告)
 
 - *2023.12*, **网络社会治理关键信息技术清单**, 信息技术支撑国家治理现代化的战略研究, 香山科学会议 (我国科技界以探索科学前沿、促进知识创新为主要目标的高层次、跨学科、小规模常设性学术会议), 北京香山饭店, 北京
 
@@ -149,10 +150,10 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 - *2016.11*, **面向边境疟疾控制的主动监控系统**, 中国疾病预防控制中心寄生虫病预防控制所, 上海
 
-# 💻 Services
+# 💻 Pubilic Services (公共服务)
 
 - *Conference reveiwer*: ICML, ICLR, NeurIPS, AAAI, IJCAI, CVPR, ICCV, KDD, SDM
-- *Journal reveiwer*: IEEE TKDE, IEEE TNNLS, IEEE TPAMI, DKE, Scientific Reports
+- *Journal reveiwer*: IEEE TPAMI, IEEE TKDE, IEEE TNNLS, ACM TKDD, 
 
 # 📙 Books that inspired me most
 
