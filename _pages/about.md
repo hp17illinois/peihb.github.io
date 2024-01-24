@@ -22,12 +22,11 @@ I published several papers at the top international AI conferences and journals,
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 We got one paper accepted for presentation at WWW'24 (CCF-A)
 - *2023.12*: &nbsp;🎉🎉 I was nominated by the program chair committee of ICML 2024 to serve as Reviewer
-- *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24
+- *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24 (CCF-A)
 - *2023.12*: &nbsp;🎉🎉 I participated in and delivered a talk at the Xiangshan Science Conference (香山科学会议)
 - *2022.08*: &nbsp;🎉🎉 Our "On the Dimension and Metric of Network Embedding" (网络嵌入的维数与度量研究) project is selected to be awarded by NSFC (中国国家自然科学基金)
-%- *2021.08*: &nbsp;🎉🎉 I join Xi'an Jiaotong University as a Tenure-Track Assistant Professor
-%- *2021.06*: &nbsp;🎉🎉 I receive Ph.D. degree from Jilin University
 
 # 📝 Selected Publications
 
@@ -62,6 +61,8 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 </div>
 
 ## <font color=grey>Slected Publications</font>
+
+[*2024*] **Hongbin Pei**, Yuheng Xiong, Pinghui Wang, Jing Tao, Jialun Liu, Huiqi Deng, Jie Ma, Xiaohong Guan. Memory Disagreement: A Pseudo-Labeling Measure from Training Dynamics for Semi-supervised Graph Learning. The 2024 ACM Web Conference (**WWW**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
 [*2024*] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
