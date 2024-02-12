@@ -22,7 +22,6 @@ I published several papers at the top international AI conferences and journals,
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 We got one paper accepted by IEEE TPAMI (CCF-A)
 - *2024.01*: &nbsp;🎉🎉 We got one paper accepted for presentation at WWW'24 (CCF-A)
 - *2023.12*: &nbsp;🎉🎉 I was nominated by the program chair committee of ICML 2024 to serve as Reviewer
 - *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24 (CCF-A)
