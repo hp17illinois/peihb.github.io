@@ -22,6 +22,7 @@ I published several papers at the top international AI conferences and journals,
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 We got one paper accepted by IEEE TPAMI (CCF-A)
 - *2024.01*: &nbsp;🎉🎉 We got one paper accepted for presentation at WWW'24 (CCF-A)
 - *2023.12*: &nbsp;🎉🎉 I was nominated by the program chair committee of ICML 2024 to serve as Reviewer
 - *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24 (CCF-A)
@@ -66,11 +67,11 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 [*2024*] **Hongbin Pei**, Taile Chen, Chen A, Huiqi Deng, Jing Tao, Pinghui Wang, Xiaohong Guan. HAGO-Net: Hierarchical Geometric  Massage  Passing for Molecular Representation Learning.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
+[*2024*] Jie Ma, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, **Hongbin Pei**, Junzhou Zhao. Robust Visual Question Answering: Datasets, Methods, and Future Challenges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024 （<span style="color:blue">**CCF-A**</span>; **impact factor 24.31**
+
 [*2024*] Jinjin Chi, Zhichao Zhang, Zhiyao Yang, Jihong Ouyang, **Hongbin Pei (Corresponding Author)**. Generalized Variational Inference via Optimal Transport.  Thirty-eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
 [*2023*] Chunxu Zhang, Ximing Li, **Hongbin Pei**, Zijian Zhang, Bing Liu, Bo Yang. LaenNet: Learning robust GCNs by propagating labels. Neural Networks, 2023 （<span style="color:blue">**CCF-B**</span>）
-
-[*2023*] Denghao Ma, **Hongbin Pei**, Peng Bao, Xueqiang Lv, Liang Shen, Genliang Yi, Haoxing Wen. Deep Click Interest Network for Reranking Hotels. Engineering Applications of Artificial Intelligence (**EAAI**), 2023 （<span style="color:blue">**CCF-C**</span>； 应用在美团APP首页酒店检索）
 
 [*2022*] **Hongbin Pei**, Bo Yang, Jiming Liu, Kevin Chen-Chuan Chang. Active Surveillance via Group Sparse Bayesian Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 （<span style="color:blue">**CCF-A**</span>; **impact factor 24.31**; **ESI** Hot Paper (top 0.1%)）
 
