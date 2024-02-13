@@ -21,7 +21,8 @@ I published several papers at the top international AI conferences and journals,
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 We got one paper accepted by IEEE TPAMI (CCF-A)
+- *2024.02*: &nbsp;🎉🎉 I was awarded the Excellent Doctoral Dissertation nomination Award for the Wu Wenjun Science and Technology Award (吴文俊科学技术奖优秀博士论文提名奖) [**Link**](https://ccst.jlu.edu.cn/info/1092/18794.htm) 
+- *2024.02*: &nbsp;🎉🎉 We got one paper accepted by IEEE TPAMI (CCF-A)
 - *2024.01*: &nbsp;🎉🎉 We got one paper accepted for presentation at WWW'24 (CCF-A)
 - *2023.12*: &nbsp;🎉🎉 I was nominated by the program chair committee of ICML 2024 to serve as Reviewer
 - *2023.12*: &nbsp;🎉🎉 We got two papers accepted for presentation at AAAI'24 (CCF-A)
