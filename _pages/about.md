@@ -116,6 +116,8 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 
 # 🎖 Honors 
 
+- **吴文俊人工智能优秀博士论文提名奖**, 2024
+
 - **吉林大学优秀博士学位论文**，2022 
 
 - **吉林省自然科学奖一等奖**，2021
