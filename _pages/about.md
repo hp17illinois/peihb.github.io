@@ -19,8 +19,11 @@ redirect_from:
 Hey, my name is **Hongbin Pei (裴红斌)**, an assistant professor at School of Cyber Science and Engineering, Xi'an Jiaotong University (西安交通大学). I received B.Sc, M.Eng, and Ph.D. degree from  the College of Computer Science and Technology, Jilin University (吉林大学). My research interest focuses on Machine Learning and Complex Networks.
 I published several papers at the top international AI conferences and journals, such as IEEE TPAMI, ICLR, NeurIPS.
 
+个人主页（中文）  https://gr.xjtu.edu.cn/en/web/peihongbin
+
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 We got one paper accepted for **Spotlight Presentation** at ICML'24 (CCF-A)
 - *2024.02*: &nbsp;🎉🎉 I was awarded the Excellent Doctoral Dissertation nomination Award for the Wu Wenjun Science and Technology Award (吴文俊科学技术奖优秀博士论文提名奖) [**Link**](https://ccst.jlu.edu.cn/info/1092/18794.htm) 
 - *2024.02*: &nbsp;🎉🎉 We got one paper accepted by IEEE TPAMI (CCF-A)
 - *2024.01*: &nbsp;🎉🎉 We got one paper accepted for presentation at WWW'24 (CCF-A)
@@ -62,6 +65,8 @@ The paper is the first work to raise the problem of graph learning heterophily, 
 </div>
 
 ## <font color=grey>Slected Publications</font>
+
+[*2024*] **Hongbin Pei**, Yu Li, Huiqi Deng, Jingxin Hai, Pinghui Wang, Jie Ma, Jing Tao, Yuheng Xiong, Xiaohong Guan. Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing. The forty-first International Conference on Machine Learning (**ICML**), 2024（（<span style="color:blue">**CCF-A**</span>）；Spotlight representation））
 
 [*2024*] **Hongbin Pei**, Yuheng Xiong, Pinghui Wang, Jing Tao, Jialun Liu, Huiqi Deng, Jie Ma, Xiaohong Guan. Memory Disagreement: A Pseudo-Labeling Measure from Training Dynamics for Semi-supervised Graph Learning. The 2024 ACM Web Conference (**WWW**), 2024  （<span style="color:blue">**CCF-A**</span>）
 
